@@ -34,6 +34,7 @@ body {
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
+  flex-wrap: wrap;
 }
 .images3{
   display: flex;
