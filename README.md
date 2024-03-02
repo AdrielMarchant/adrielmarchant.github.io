@@ -1,1 +1,0 @@
-# adrielmarchant.github.io
